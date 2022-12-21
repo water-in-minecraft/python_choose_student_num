@@ -1,0 +1,5 @@
+关于此存储库-基于python的抽取学号脚本
+点开就可以运行，有linux版本和Windows版本
+Windows需要在运行前安装easygui库
+命令-pip install easygui
+有一个要面向互联网发布的版本是可用的，但是先不公布，回头会公布内测版本
